@@ -6524,7 +6524,7 @@
 
   [recent_track_help_text]
     tags = ios
-    en = Record and show your traveled path within the given period of time on the map. Please note: this noticably increases battery usage.
+    en = Record and show your traveled path within the given period of time on the map. Please note: this noticeably increases battery usage.
     af = Hierdie opsie laat u toe om die afgelegde pad vir ’n sekere tydperk op te neem en dit op die kaart te sien. Let wel: aktivering van hierdie funksie verhoog batterygebruik. Die pad word outomaties van die kaart geskrap nadat die tydsinterval verstryk.
     ar = يتيح لك هذا الخيار تسجيل مسار السفر لفترة معينة وعرضه على الخريطة. الرجاء ملاحظة: يؤدي تنشيط هذه الوظيفة إلى زيادة استهلاك البطارية. سوف تتم إزالة المسار تلقائيًا من الخريطة بعد انتهاء الفاصل الزمني.
     az = Bu funksiya müəyyən vaxt ərzində qət edilən məsafəni qeyd etməyə və xəritədə izləməyə imkan verir. Diqqət edin: bu funksiyanın işə salınması batareya istehlakının artması ilə nəticələnəcək. Müddət bitdikdən sonra izləmə avtomatik olaraq xəritədən silinəcək.
@@ -30845,3 +30845,135 @@
     vi = Mở trong ứng dụng khác
     zh-Hans = 在另一个应用程序中打开
     zh-Hant = 在另一個應用程式中打開
+
+  [self_service]
+    comment = To indicate if the place proposed self service...
+    tags = android
+    en = Self-service
+    af = Selfdiens
+    ar = الخدمة الذاتية
+    az = Özünəxidmət
+    be = Самаабслугоўванне
+    bg = Самообслужване
+    ca = Autoservei
+    cs = Samoobsluha
+    da = Selvbetjening
+    de = Selbstbedienung
+    el = Αυτοεξυπηρέτηση
+    es = Autoservicio
+    et = Iseteenindus
+    eu = Autozerbitzu
+    fa = سلف سرویس
+    fi = Itsepalvelu
+    fr = Libre-service
+    he = שירות עצמי
+    hi = स्वयं सेवा    hu = Önkiszolgáló
+    id = Layanan mandiri
+    it = Self service
+    ja = セルフサービス
+    ko = 셀프 서비스
+    lt = Savitarna
+    mr = स्व: सेवा    nb = Selvbetjening
+    nl = Zelfbediening
+    pl = Samoobsługa
+    pt = Autosserviço
+    pt-BR = Autoatendimento
+    ro = Autoservire
+    ru = Самообслуживание
+    sk = Samoobslužné služby
+    sv = Självbetjäning
+    sw = Kujihudumia
+    th = บริการตนเอง
+    tr = Self servis
+    uk = Самообслуговування
+    vi = Tự phục vụ
+    zh-Hans = 自助服务
+    zh-Hant = 自助服務
+
+  [select_option]
+    tags = android
+    en = Select option
+    af = Kies opsie
+    ar = حدد الخيار
+    az = Seçim seçin
+    be = Выберыце варыянт
+    bg = Изберете опция
+    ca = Seleccioneu l'opció
+    cs = Vyberte možnost
+    da = Vælg mulighed
+    de = Option auswählen
+    el = Επιλέξτε επιλογή
+    es = Selecciona la opción
+    et = Valige valik
+    eu = Hautatu aukera
+    fa = گزینه را انتخاب کنید
+    fi = Valitse vaihtoehto
+    fr = Sélectionner une option
+    he = בחר אפשרות
+    hi = विकल्प चुनें
+    hu = Válassza ki a lehetőséget
+    id = Pilih opsi
+    it = Seleziona l'opzione
+    ja = オプションを選択する
+    ko = 옵션 선택
+    lt = Pasirinkite parinktį
+    mr = पर्याय निवडा    nb = Velg alternativ
+    nl = Selecteer optie
+    pl = Wybierz opcję
+    pt = Selecionar opção
+    pt-BR = Selecionar opção
+    ro = Selectați opțiunea
+    ru = Выберите вариант
+    sk = Vyberte možnosť
+    sv = Välj alternativ
+    sw = Chagua chaguo
+    th = เลือกตัวเลือก
+    tr = Seçeneği seçin
+    uk = Виберіть варіант
+    vi = Chọn tùy chọn
+    zh-Hans = 选择选项
+    zh-Hant = 選擇選項
+
+  [outdoor_seating]
+    comment = To indicate if restaurant or other place has outdoor seating
+    tags = android
+    en = Outdoor seating
+    af = Buitelug sitplek
+    ar = مقاعد خارجية
+    az = Çöldə oturma
+    be = Месцы на адкрытым паветры
+    bg = Места за сядане на открито
+    ca = Seients a l'aire lliure
+    cs = Venkovní posezení
+    da = Udendørs siddepladser
+    de = Sitzplätze im Freien
+    el = Εξωτερικά καθίσματα
+    es = Asientos al aire libre
+    et = Istekohad õues
+    eu = Kanpoko eserlekuak
+    fa = نشستن در فضای باز
+    fi = Ulkona istuminen
+    fr = Places en terrasse
+    he = ישיבה בחוץ
+    hi = घर के बाहर बैठने
+    hu = Kültéri ülőhelyek
+    id = Tempat duduk di luar ruangan
+    it = Posti a sedere all'aperto
+    ja = 屋外席
+    ko = 야외 좌석
+    lt = Lauko sėdimosios vietos
+    mr = बाहेरची आसनव्यवस्था    nb = Uteservering
+    nl = Zitplaatsen buiten
+    pl = Siedzenia na zewnątrz
+    pt = Assentos ao ar livre
+    ro = Scaune în aer liber
+    ru = Сидения на открытом воздухе
+    sk = Vonkajšie sedenie
+    sv = Sittplatser utomhus
+    sw = Viti vya nje
+    th = ที่นั่งกลางแจ้ง
+    tr = Açık oturma alanı
+    uk = Сидіння на відкритому повітрі
+    vi = Chỗ ngồi ngoài trời
+    zh-Hans = 室外座位
+    zh-Hant = 戶外座位
